@@ -1,0 +1,28 @@
+Write a blog about objects and its internal representation in Javascript
+
+Javascript Structures is
+  1 variables  - 
+  2 data type
+  3 operator
+  4 print  
+
+     1 variables
+       var ,let, const
+
+    2 data type
+       Number, String, Boolean, null, undefined and symbol
+
+     3 operator 
+         Assignment operators - = ,"="
+         Logical operators    - and ,or,not
+         Conditional operator - <,>,<=,>=,==,===
+     
+     4 print  
+        two type of print in Javascript
+      
+          1 document.write
+          2 console.log () -  most using 
+
+       
+ 
+
